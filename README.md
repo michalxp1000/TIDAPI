@@ -1,3 +1,3 @@
 # TIDAPI
-Telekinetic Input Device API Library 
-In build, i'm currently working on XD OS
+Telekinetic Input Device API Library
+In build, i'm currently working on Newix
